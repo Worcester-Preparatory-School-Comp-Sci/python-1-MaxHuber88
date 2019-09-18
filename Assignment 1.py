@@ -1,3 +1,4 @@
+# MAX HUBER 9/18
 def population():
 	years = int(input("Years: ")) # user input in years
 	seconds = years*365*24*60*60 # convert years to seconds
