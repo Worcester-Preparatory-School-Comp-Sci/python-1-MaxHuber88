@@ -26,3 +26,6 @@ def deepWater():
 	population()
 	oilFacts()
 	deepWater()
+
+
+# without un-indenting... the function calls won't happen
